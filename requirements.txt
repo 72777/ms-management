@@ -1,0 +1,5 @@
+flask==0.12.2
+flask_restplus
+messaging==0.0.4
+services==0.0.1
+logger==0.0.1
